@@ -1,8 +1,8 @@
 # Functional requirements
-Django>=1.10.7,<1.11
+Django<2.0.0
 python-dateutil
 pytz
-django-bootstrap3==8.0.*
+django-bootstrap3==8.2.*
 django-formset-js-improved==0.5.0.1
 django-compressor==2.1
 django-hierarkey==1.0.*
@@ -13,7 +13,7 @@ django-libsass
 libsass
 django-otp==0.3.*
 python-u2flib-server==4.*
-django-formtools==1.0
+django-formtools==2.0
 celery==4.0.2
 kombu==4.0.2
 django-statici18n==1.3.*
